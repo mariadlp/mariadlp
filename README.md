@@ -1,5 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF66C4&height=120&section=header"/>
-<img src="">
+<img width=100% src="banner.png" alt="Banner">
+
  <!-- Welcome -->
 <h1 align="center">Hi 👋, I'm María</h1>
 <h3 align="center">PhD Candidate | Researcher in ICT for Healthcare | Computer Science Engineer</h3>
