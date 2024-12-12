@@ -9,6 +9,7 @@
 
 <!-- Profile Gif -->
 <img width="20%" align="right" src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" />
+
 - 👨‍💻 I’m currently working on my PhD at Universidad Politécnica de Madrid
 
 - 🔭 I'm researching on **adaptive screening systems** for neurodevelopmental disorders in preschool settings
