@@ -1,11 +1,12 @@
 <img width=100% src="banner.png" alt="Banner">
 
  <!-- Welcome -->
-<h1 align="center">Hi 👋, I'm María</h1>
+<h1 align="center">Hi 👋, I'm María</h1> 
 <h3 align="center">PhD Candidate | Researcher in ICT for Healthcare | Computer Science Engineer</h3>
 
+
 <!-- Profile -->
-## About me
+## <img width="7%" align="center" src="laptop teaching.png" style="vertical-align: middle; margin-right: 10px;" /> About me
 
 <!-- Profile Gif -->
 <img width="20%" align="right" src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" />
@@ -29,6 +30,7 @@
 <a href="https://linkedin.com/in/mariadolon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariadolon" height="30" width="40" /></a>
 <a href="https://instagram.com/entredoctorandas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="entredoctorandas" height="30" width="40" /></a>
 </p>
+
 
 ## Languages and Tools
 <p align="center"> 
@@ -84,6 +86,9 @@
 </p>
 
 
+
 ## ⚙️ GitHub Analytics
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariadlp&show_icons=true&locale=en" alt="mariadlp" /></p>
+
+
 
