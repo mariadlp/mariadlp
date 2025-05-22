@@ -31,6 +31,7 @@
 <a href="https://instagram.com/entredoctorandas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="entredoctorandas" height="30" width="40" /></a>
 <a href="https://discord.com/users/mariadlp_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mariadlp_" height="30" width="40" /></a>
 <a href="https://x.com/mariadolonp" target="blank"><img align="center" src="https://raw.githubusercontent.com/ali-han/Twitter-x-icon-logo/main/dark/Twitter%20X%20Icon.svg" alt="mariadolonp" height="30" width="40" /></a>
+<a href="https://bsky.app/profile/mariadolon.bsky.social" target="blank"><img align="center" src="https://raw.githubusercontent.com/OzzyCzech/bluesky-logo/main/dist/bluesky-icon.svg" alt="Bluesky" height="30" width="40" /></a>
 <a href="https://portalcientifico.upm.es/es/ipublic/researcher/335081" target="blank"><img align="center" src="logo.png" alt="upm" height="30" width="40" /></a>
 </p>
 
