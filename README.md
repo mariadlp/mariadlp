@@ -2,7 +2,7 @@
 
  <!-- Welcome -->
 <h1 align="center">Hi 👋, I'm María</h1> 
-<h3 align="center">PhD Candidate | Researcher in ICT for Healthcare | Computer Science Engineer</h3>
+<h3 align="center">PhD Candidate | Researcher in ICT for Healthcare | Computer Science and Network Engineer</h3>
 
 
 <!-- Profile -->
@@ -15,11 +15,9 @@
 
 - 🔭 I'm researching on **adaptive screening systems** for neurodevelopmental disorders in preschool settings
 
-- 👯 I’m looking to collaborate on **Clinical Data Protection - Cybersecurity in Healthcare**
+- 👯 I’m looking to collaborate on **Clinical Data Protection - Privacy Engineering**
 
-- 🤝 I’m looking for help with **frontend development**
-
-- 🌱  I've keen interest in blockchain technologies
+- 🌱  I've keen interest in cybersecurity in healthcare
 
 - 📝 I regularly publish scientific articles on Computer Science and eHealth in peer-reviewed journals
 
@@ -92,10 +90,6 @@
   </a> 
 </p>
 
-
-
-## ⚙️ GitHub Analytics
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariadlp&show_icons=true&locale=en" alt="mariadlp" /></p>
 
 
 
