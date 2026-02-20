@@ -1,4 +1,4 @@
-<img width=100% src="banner.png" alt="Banner">
+<img width=100% src="banner3.png" alt="Banner">
 
  <!-- Welcome -->
 <h1 align="center">Hi 👋, I'm María</h1> 
