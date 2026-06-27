@@ -2,7 +2,7 @@
 
  <!-- Welcome -->
 <h1 align="center">Hi 👋, I'm María</h1> 
-<h3 align="center">PhD Candidate | Researcher in ICT for Healthcare | Computer Science and Network Engineer</h3>
+<h3 align="center">PhD | Researcher in ICT for Healthcare | Computer Science and Network Engineer</h3>
 
 
 <!-- Profile -->
@@ -11,9 +11,7 @@
 <!-- Profile Gif -->
 <img width="20%" align="right" src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" />
 
-- 👨‍💻 I’m currently working on my PhD at Universidad Politécnica de Madrid
-
-- 🔭 I'm researching on **adaptive screening systems** for neurodevelopmental disorders in preschool settings
+- 🔭 I'm researching on **consensus support systems**
 
 - 👯 I’m looking to collaborate on **Clinical Data Protection - Privacy Engineering**
 
